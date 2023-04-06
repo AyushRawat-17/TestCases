@@ -1,0 +1,10 @@
+#!/bin/bash
+#mode: Advance
+source $NS_WDIR/bin/ts_function_lib
+function main()
+{
+  echo " Starting Pre test suite." 
+  sudo_start_service NS 'efg;ijlkqDLFHSUD;IJWKQLDSAjfslikldJAFSVDALFKASJFSVFAIDADKWLJAFSLadkJAFDAUIEWJRLKSAD/NJKEFYUGASHDJFGYLIUHASKVJKGHKSJAHULKJDSUviki'
+}
+main
+exit 0

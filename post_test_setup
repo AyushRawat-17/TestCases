@@ -1,0 +1,10 @@
+#!/bin/bash
+#mode: Advance
+source $NS_WDIR/bin/ts_function_lib
+function main()
+{
+  echo " Starting Post test suite." 
+  start_service NS 'SWDQERWq3t5y46u57rtwerefsgdhjtyrhterewte5yw6ujthgfdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg'
+}
+main
+exit 0
